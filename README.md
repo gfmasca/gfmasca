@@ -1,13 +1,35 @@
-# Gabriel Mascarenhas
+# Gabriel Mascarenhas (or just Masca)
 
-Project Manager and NodeJS Developer at @polijr
+## About Me
 
-[![Twitter Badge](https://img.shields.io/twitter/url?label=Gabriel%20Mascarenhas&style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&url=https%3A%2F%2Ftwitter.com%2Fmascachiclete_)](https://twitter.com/mascachiclete_)
-[![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Mascarenhas-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gfmascarenhas/)](https://www.linkedin.com/in/gfmascarenhas/)
-[![Gmail Badge](https://img.shields.io/badge/-gfmascarenhas@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gfmascarenhas@gmail.com)](mailto:gfmascarenhas@gmail.com)
+> [!tldr]
+> Email: gfmascarenhas@gmail.com
+> Whatsapp: +39 3425209877
 
-Undergraduate at Electrical Engineering at Escola Politécnica da USP
+I am Gabriel Mascarenhas, a dedicated and multifaceted individual with a passion for personal growth, education, and impactful projects. My journey is marked by a blend of professional endeavors, personal development, and community service.
 
-I want to learn more about the programming world and software development. Enthusiast of open source iniciative.
+## Professional Background
+- **Engineer at Punto.OK**: I'm the responsible of the whole application and microsservices. We're in two engineers
+- **Product Owner at Doji**: I manage products like [[Dojizap]] and [[Trade In As a Service]], focusing on innovation and efficiency.
+- **Management Engineering Student**: Currently pursuing a double degree at [[POLITO|Politecnico di Torino]], excelling in subjects like Project Management and Quality Engineering.
+- **Volunteer Educator in [[Uganda]]**: Engaged in teaching mathematics and leading fundraising projects to support quality education for children.
 
-"Nobody ever figures out what life is all about, and it doesn't matter. Explore the world. Nearly everything is really interesting if you go into it deeply enough." - Richard P. Feynman
+## Projects
+- **[[Half Marathon Training]] Project**: As part of my 2025 goals, I am training to run a half marathon, emphasizing discipline and physical fitness.
+- **[[Happytimes Website]]**: Developed a new website for [[Happytimes]] Childcare International to enhance their online presence and support their mission.
+- **Personal Finance Manager**: Created a system to better manage my finances, reflecting my commitment to personal and financial growth.
+
+## Personal Interests
+- **Travel**: I enjoy planning and embarking on trips to places like Zurich and [[Bardonecchia]], enriching my life with diverse experiences.
+- **Literature and Learning**: I am an avid reader, constantly seeking knowledge through literature and reference materials related to my interests and professional fields.
+
+## Philosophy
+- **"Seja doido com consciência"**: Embrace boldness with awareness.
+- **"No final, tudo funciona e faz sentido"**: Trust that everything will work out and make sense in the end.
+- **"O tempo passa rápido"**: Acknowledge the fleeting nature of time.
+- **"Aproveite os momentos de dor"**: Find value in moments of pain.
+- **"Preze sempre pela sua felicidade"**: Prioritize your happiness.
+
+## Contact
+Feel free to reach out to me for collaboration or conversation.
+gfmascarenhas@gmail.com
