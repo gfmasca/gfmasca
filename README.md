@@ -1,5 +1,7 @@
 # Gabriel Mascarenhas
 
+[My Website](https://notes.euomasca.com/)
+
 ## About Me
 
 > [!tldr]
